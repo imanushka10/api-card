@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "package.json": "^2.0.1",
     "random-name": "0.1.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
