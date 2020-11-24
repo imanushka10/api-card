@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "axios": "^0.21.0",
     "package.json": "^2.0.1",
     "random-name": "0.1.2",
     "react": "16.8.6",
